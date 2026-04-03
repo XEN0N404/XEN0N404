@@ -21,7 +21,7 @@
 
 # 🧠 ABOUT ME
 
-```python
+```
 class ZENTRIX:
 
     def __init__(self):
@@ -36,7 +36,7 @@ class ZENTRIX:
         return "Always coding and building tools"
 
     def motto(self):
-        return "CODE • AUTOMATE • DOMINATE"
+        return "CODE • AUTOMATE • DOMINATE"```
 
 Property| Value
 Name| ZENTRIX
@@ -112,4 +112,3 @@ Other       ██░░░░░░░░░░░░░░░░░░░░  
 </p>---
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0077ff&height=120&section=footer&animation=twinkling"/></p>
-```
