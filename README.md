@@ -36,7 +36,8 @@ class ZENTRIX:
         return "Always coding and building tools"
 
     def motto(self):
-        return "CODE • AUTOMATE • DOMINATE"```
+        return "CODE • AUTOMATE • DOMINATE"
+```
 
 Property| Value
 Name| ZENTRIX
