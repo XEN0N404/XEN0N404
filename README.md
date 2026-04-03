@@ -39,26 +39,26 @@ class ZENTRIX:
         return "CODE • AUTOMATE • DOMINATE"
 ```
 
-# Property| Value 
-# Name| ZENTRIX
-# Alias| XEN0N404
-# Focus| Automation • APIs • Security Tools
-# System| Linux / Termux
-# Languages| Python • PHP • JavaScript • Bash
-# Mission| BUILD • BREAK • LEARN • REPEAT
+### Property| Value 
+### Name| ZENTRIX
+### Alias| XEN0N404
+### Focus| Automation • APIs • Security Tools
+### System| Linux / Termux
+### Languages| Python • PHP • JavaScript • Bash
+### Mission| BUILD • BREAK • LEARN • REPEAT
 
 
-## 🧰 TECH STACK
+# 🧰 TECH STACK
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,php,js,nodejs,bash,linux,git,github,html,css,mongodb,mysql"/></p>---
+<p align="center"><img src="https://skillicons.dev/icons?i=python,php,js,nodejs,bash,linux,git,github,html,css,mongodb,mysql"/></p>
 
-📊 GITHUB STATS
+# 📊 GITHUB STATS
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=XEN0N404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XEN0N404&layout=compact&theme=tokyonight&hide_border=true"/></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=XEN0N404&theme=tokyonight&hide_border=true"></p>---
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=XEN0N404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XEN0N404&layout=compact&theme=tokyonight&hide_border=true"/></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=XEN0N404&theme=tokyonight&hide_border=true"></p>
 
 # 🔥 CONTRIBUTION GRAPH
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=XEN0N404&theme=tokyo-night&hide_border=true"></p>---
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=XEN0N404&theme=tokyo-night&hide_border=true"></p>
 
 # 🐍 CONTRIBUTION SNAKE
 
@@ -76,7 +76,7 @@ Trading Utilities| 🟡 Ongoing| Python + CCXT
 
 🏆 GITHUB TROPHIES
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=XEN0N404&theme=tokyonight&no-frame=true&row=1&column=6"></p>---
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=XEN0N404&theme=tokyonight&no-frame=true&row=1&column=6"></p>
 
 # 📈 WEEKLY DEVELOPMENT BREAKDOWN
 
