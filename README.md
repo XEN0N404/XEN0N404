@@ -1,10 +1,13 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=ZENTRIX+(XEN0N404);AUTOMATION+%7C+API+DEVELOPER;PYTHON+%7C+SECURITY+TOOLS;WELCOME+TO+MY+CYBER+LAB"></p>---
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=ZENTRIX+(XEN0N404);AUTOMATION+%7C+API+DEVELOPER;SECURITY+TOOLS+%7C+PYTHON;WELCOME+TO+MY+CYBER+LAB">
+</p>---
 
-⚡ ZENTRIX
-
-aka XEN0N404
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=XEN0N404&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"><img src="https://img.shields.io/github/followers/XEN0N404?style=for-the-badge&logo=github"><img src="https://img.shields.io/github/stars/XEN0N404?style=for-the-badge&logo=github"></p>---
+<h1 align="center">⚡ ZENTRIX</h1>
+<h3 align="center">aka XEN0N404</h3><p align="center">
+<img src="https://komarev.com/ghpvc/?username=XEN0N404&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/XEN0N404?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/github/stars/XEN0N404?style=for-the-badge&logo=github">
+</p>---
 
 🧠 ABOUT ME
 
@@ -13,7 +16,7 @@ Alias   : XEN0N404
 Focus   : Automation • APIs • Security Tools
 System  : Linux / Termux
 Lang    : Python • PHP • JavaScript
-Mission : BUILD • BREAK • LEARN
+Mission : BUILD • BREAK • LEARN • REPEAT
 
 ---
 
@@ -43,6 +46,16 @@ Mission : BUILD • BREAK • LEARN
 
 ---
 
+📢 TELEGRAM CHANNELS
+
+<p align="center"><a href="https://t.me/+mKbribmd65sxZTk9">
+<img src="https://img.shields.io/badge/TELEGRAM-CHANNEL%201-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a><a href="https://t.me/+tNOpYt8m_rIxYjg9">
+<img src="https://img.shields.io/badge/TELEGRAM-CHANNEL%202-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a><a href="https://t.me/HYDRAxIGPORT">
+<img src="https://img.shields.io/badge/TELEGRAM-HYDRAxIGPORT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a></p>---
+
 🌐 CONNECT
 
 <p align="center"><a href="https://github.com/XEN0N404">
@@ -51,8 +64,10 @@ Mission : BUILD • BREAK • LEARN
 
 ⚡ QUOTE
 
-"CODE IS POWER. AUTOMATION IS CONTROL."
+CODE • AUTOMATE • DOMINATE
 
 ---
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0077ff&height=120&section=footer"/></p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0077ff&height=120&section=footer"/>
+</p>
